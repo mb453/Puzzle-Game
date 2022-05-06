@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Puzzle baxterm8</string>
+
+    <string name="start">Start Puzzle</string>
+    <string name="matthew_puzzle">Welcome to Matthews\' Puzzle</string>
+    <string name="pic_solved">Picture of the solved puzzle</string>
+
+</resources>
